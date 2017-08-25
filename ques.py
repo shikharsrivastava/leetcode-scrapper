@@ -43,8 +43,7 @@ if __name__ == '__main__':
 		print l
 	print'\n'
 	total = len(links)
-	ind = 296
-	links = links[296:]
+	ind = 0
 
 
 	#nth node from end 288
